@@ -22,7 +22,8 @@ demo: If needed for the demo that we are targetting.
 
 Steps to Run UI:
 Input Layer:
-1. Upload ..
+1. Upload "Manage Support Files" ... these are all the files not starting with the name "Input"
+2. Hit .. 
 
 
 Output Layer:
