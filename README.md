@@ -20,4 +20,11 @@ extension 1 - Can a new json file be used as a parameter to the test?
 
 demo: If needed for the demo that we are targetting.
 
+Steps to Run UI:
+Input Layer:
+1. Upload ..
 
+
+Output Layer:
+
+1. Upload ..
