@@ -23,7 +23,8 @@ demo: If needed for the demo that we are targetting.
 Steps to Run UI:
 Input Layer:
 1. Upload "Manage Support Files" ... these are all the files not starting with the name "Input"
-2. Hit "Run Model". This will process the input files and generate json outputs for the backend.
+2. Under the "Manage Support Files" tab, there is a "browse" field.. click on it and upload the file starting with name "Input_....xlsx".
+3. Hit "Run Model". This will process the input files and generate json outputs for the backend.
 
 
 Output Layer:
